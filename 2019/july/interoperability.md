@@ -17,7 +17,7 @@ Thanks to the newly implemented Malawi Digital Health Interoperability Layer, th
 
 The Interoperability Layer then made it possible for Blessings treatment to be shared with his Medical Insurer, who remotely processed Blessings’ costs, removing all human intervention and potential for fraud. Blessings then received an SMS with instructions to pay for his medical shortfall via Mobile Money.
 
-And within 30 minutes, his entire procedure was complete. Zatheka.
+And within thirty minutes, his entire procedure was complete. Zatheka.
 
 This isn't science fiction. This is the new reality for the citizens of Malawi—a future where healthcare is no longer hampered by bureaucratic hurdles or data silos. A future where patients like Blessings can transition between healthcare facilities with ease, confident in the knowledge that their health records will follow them.
 
