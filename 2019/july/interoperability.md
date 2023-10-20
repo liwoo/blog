@@ -1,0 +1,52 @@
+---
+title: "Malawi’s Grand Plan to Achieve Digital Health Interoperability"
+author: "Jeremiah Chienda <jeremiah@chienda.com>"
+date: "2019-07-31"
+duration: "8 min read"
+topic: "Digital Health"
+tags: ["Digital Health", "Malawi", "OpenHIE", "Healthcare Technology"]
+---
+
+# Malawi’s Grand Plan to Achieve Digital Health Interoperability
+
+The year is 2035. The sun casts a warm glow over the scenic Chitipa District. The air is filled with a palpable sense of excitement and hope. Here, in the heart of Malawi, the future of Digital Health Interoperability isn't a mere dream—it's a lived reality.
+
+Blessings, a resident of Chitipa, finds herself in need of medical attention. With trepidation, she arrives at the newly established Chitipa District Hospital, having recently transferred from Chinsansu Clinic. The nurse at the reception, without wasting a moment, accesses Blessings' comprehensive medical history, treatments, and past records from Chinsansu with just a few clicks. The once daunting process of transferring medical data has been transformed into a seamless experience.
+
+After her consultation, Blessings is immediately informed of her diagnosis, which is securely shared with her insurance provider, MASM. Without missing a beat, MASM processes the data, calculates any shortfalls in her coverage, and sends Blessings a real-time notification detailing the exact amount due. Blessings, relieved and grateful, finalizes the payment effortlessly through Airtel Money.
+
+This isn't science fiction. This is the new reality for the citizens of Malawi—a future where healthcare is no longer hampered by bureaucratic hurdles or data silos. A future where patients like Blessings can transition between healthcare facilities with ease, confident in the knowledge that their health records will follow them.
+
+## Kuunika Data for Action: The Beginning
+
+Between the summer of 2017 and 2019, I had the honor of working as a Software Architect for Kuunika Data for Action. This was not just any project; it was a consortium of pivotal health stakeholders, including Baobab Health Trust (BHT) – my duty station – Luke International Norway, Cooper Smith, and Lighthouse Trust.
+
+## Our Mission
+
+Our primary objective was clear and challenging: establish Digital Health Interoperability in Malawi to enhance the continuum of care among patients. Collaborating with technical partners like Jembi Health Trust, we brainstormed, designed, and envisioned what interoperability in Malawi's healthcare would entail.
+
+## A Global Community
+
+Our team was actively involved in the OpenHIE Community, where we both contributed to and learned from global industry partners. This international collaboration was instrumental in gaining insights and sharing best practices.
+
+## Baobab Health Trust's Legacy
+
+BHT's work in building localized EHR Systems, inspired by OpenMRS, for specific disease programs was commendable. By the time I joined, BHT's low-power solutions were operational in over 95 health facilities across 12 Malawian districts. Their offline-first patient identification system, DDE, had successfully registered over 6 million patients.
+
+## Integrating the Fragmented Landscape
+
+With a strong foundation in place, the challenge was integrating Malawi's fragmented Digital Health Landscape. The solution? OpenHIE's reference architecture. Our first major task was to create a Master Health Facility Registry, meticulously documenting all 1,500 healthcare facilities in Malawi.
+
+## Pioneering Work
+
+Following the facility registry, our focus shifted to the Terminology Registry. A pilot project was launched with 10,000 terminologies translated to both Snomed and ICD-10. We also initiated the development of an ADX to ensure seamless data integration between DHAMIS and DHIS2 every month via the interoperability layer.
+
+## The Road Ahead
+
+While we've made significant strides, the journey is far from over. We're looking forward to establishing a Health Worker Registry and a comprehensive Terminology Service. Moreover, there's an urgent need to encourage EHRs to integrate with the IoL, facilitating the sharing of Patient Records that will eventually be stored in the Ministry of Health's FHIRStore.
+
+## The Vision
+
+Achieving complete Digital Health Interoperability would not only elevate Malawi's healthcare system but also serve as a shining model for Africa and beyond. The potential is limitless – from improved patient care to efficient data management and beyond.
+
+The journey has been both challenging and rewarding, and as we continue our efforts, we remain hopeful and excited for the future of Digital Health in Malawi.
