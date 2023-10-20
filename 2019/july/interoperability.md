@@ -9,11 +9,15 @@ tags: ["Digital Health", "Malawi", "OpenHIE", "Healthcare Technology"]
 
 # Malawi’s Grand Plan to Achieve Digital Health Interoperability
 
-The year is 2035. The sun casts a warm glow over the scenic Chitipa District. The air is filled with a palpable sense of excitement and hope. Here, in the heart of Malawi, the future of Digital Health Interoperability isn't a mere dream—it's a lived reality.
+“Zatheka! Zathka man,” exclaimed an enthralled Blessings, his broad smile beaming all the way to the cool springs in Misuku Hills.
 
-Blessings, a resident of Chitipa, finds herself in need of medical attention. With trepidation, she arrives at the newly established Chitipa District Hospital, having recently transferred from Chinsansu Clinic. The nurse at the reception, without wasting a moment, accesses Blessings' comprehensive medical history, treatments, and past records from Chinsansu with just a few clicks. The once daunting process of transferring medical data has been transformed into a seamless experience.
+Blessings Mungonya, an 24-year old secondary school teacher living with HIV had been faithfully receiving his treatment from Chinsansu Clinic near his home and school. After a medical scare during his last visit, however, he had been referred to Chitipa District Hospital for further treatment.
 
-After her consultation, Blessings is immediately informed of her diagnosis, which is securely shared with her insurance provider, MASM. Without missing a beat, MASM processes the data, calculates any shortfalls in her coverage, and sends Blessings a real-time notification detailing the exact amount due. Blessings, relieved and grateful, finalizes the payment effortlessly through Airtel Money.
+Thanks to the newly implemented Malawi Digital Health Interoperability Layer, the doctor treating Blessings was able to securely access his medical history from Chinsansu, ensuring smooth diagnosis and continuum of care.
+
+The Interoperability Layer then made it possible for Blessings treatment to be shared with his Medical Insurer, who remotely processed Blessings’ costs, removing all human intervention and potential for fraud. Blessings then received an SMS with instructions to pay for his medical shortfall via Mobile Money.
+
+And within 30 minutes, his entire procedure was complete. Zatheka.
 
 This isn't science fiction. This is the new reality for the citizens of Malawi—a future where healthcare is no longer hampered by bureaucratic hurdles or data silos. A future where patients like Blessings can transition between healthcare facilities with ease, confident in the knowledge that their health records will follow them.
 
@@ -23,7 +27,11 @@ Between the summer of 2017 and 2019, I had the honor of working as a Software Ar
 
 ### Our Mission
 
-Our primary objective was clear and challenging: establish Digital Health Interoperability in Malawi to enhance the continuum of care among patients. Collaborating with technical partners like Jembi Health Trust, we brainstormed, designed, and envisioned what interoperability in Malawi's healthcare would entail.
+Our primary objective was clear and challenging:
+
+> establish Digital Health Interoperability in Malawi to enhance the continuum of care among patients.
+
+Collaborating with technical partners like Jembi Health Trust, we brainstormed, designed, and envisioned what interoperability in Malawi's healthcare would entail.
 
 ### A Global Community
 
