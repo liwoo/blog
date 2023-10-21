@@ -7,6 +7,8 @@ The real "Game of Thrones" here? "To SSR or to CSR." Yeah, you got it, Maestro. 
 ## What's CSR Anyway
 To understand Client-Side Rendering, let's fire up the DeLorean and zoom back to the old days — I'm talking [AOL CDs](https://archive.org/details/America_Online_AOL_Version_7.0_America_Online_inc._BA602R15_2002) arriving in the mail. "You've got Mail!" causing a rushed excitement around the family computer.
 
+![Where you even born yet?](https://www.webdesignmuseum.org/uploaded/web-design-history/audi-de-2001.png "Old Version of Audi's Website")
+
 Back then, you clicked a link, and a new page loaded. Your browser made a new HTTP request each time. And it returned the same page for the same request.  But then with social media websites like Facebook gaining massive success, it became clear that we needed a more immersive exprience on the web.  Something akin to playing a 2D video game.
 
 So we came up with dynamic, database-driven pages - written in [PHP](https://www.php.net/)!  That is you clicked a link, and even though a new page was freshly loaded for you, at least it was personalized to the content that made sense __just__ for you.
@@ -21,7 +23,7 @@ The results? Revolutionary. [Everyone and their mum created one](https://mithril
 It turned out CSR was never a silver bullet solution to rendering web apps. Although, coming to think of it, is there even a silver bullet in Software Development? Anyway, some serious red flags started popping up as we stuffed everything to the client side:
 
 1. **SEO:** Ever tried to impress Google with a site full of JavaScript widgets? Yeah, good luck with that.
-2. **Performance:** In CSR, your browser does all the work. It's like asking your grandma to run a marathon. Ok, maybe that's a bit harsh, but the (early) browsers were never designed for that amount of processing.
+2. **Performance:** In CSR, your browser does all the work. It's like asking your grandma to run a marathon. Ok, maybe that's a bit harsh, but the (early) browsers were never designed for that amount of [processing](https://bluetriangle.com/blog/blocking-web-performance-villain).
 3. **Initial Load:** You click a link, and then you wait... and wait. CSR has that slow first punch, and in the web world, just like on Tinder, first impressions actually do count.
 
 ## Enter SSR
