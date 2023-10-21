@@ -9,7 +9,7 @@ To understand Client-Side Rendering, let's fire up the DeLorean and zoom back to
 
 Back then, you clicked a link, and a new page loaded. Your browser made a new HTTP request each time. And it returned the same page for the same request.  But then with social media websites like Facebook gaining massive success, it became clear that we needed a more immersive exprience on the web.  Something akin to playing a 2D video game.
 
-So we came up with dynamic, database-driven pages.  That is you clicked a link, and even though a new page was freshly created for you, at least it was personalized to the content that made sense __just__ for you.
+So we came up with dynamic, database-driven pages.  That is you clicked a link, and even though a new page was freshly loaded for you, at least it was personalized to the content that made sense __just__ for you.
 
 Enter JavaScript Frameworks. Frameworks like Backbone.js and Ember opted to move all of the rendering logic to the browser - or the client in this case - hence, Client Side Rendering.
 
