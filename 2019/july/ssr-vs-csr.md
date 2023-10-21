@@ -71,3 +71,4 @@ Time to View (TTV) and Time to Interact (TTI) are like the opening act and the m
 ## Sigh, so how do I know what to choose?
 No worries, Maestro, I've gone out to create a basic decision tree (keyword - basic) that could guide you when trying to make the decision for your next big Web App:
 
+![CSR vs SSR](https://github.com/liwoo/blog/blob/main/assets/how%20to%20chose%20ssr%20vs%20csr.png?raw=true "How to Choose between CSR and SSR")
