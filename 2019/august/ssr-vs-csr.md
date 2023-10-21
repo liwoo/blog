@@ -1,3 +1,11 @@
+---
+title: "SSR vs. CSR: The One Choice That Could Make or Break Your Web App!"
+author: "Jeremiah Chienda <jeremiah@chienda.com>"
+date: "2019-08-29"
+duration: "12 min read" 
+topic: "Web Development"
+tags: ["SSR", "CSR", "Rendering", "Web Development", "JavaScript", "React", "NextJS"]
+---
 
 # SSR vs. CSR: The One Choice That Could Make or Break Your Web App!
 
