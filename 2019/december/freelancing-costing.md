@@ -1,3 +1,12 @@
+---
+title: "Stop Undercharging NOW! The Freelancer’s Ultimate Guide to Pricing Software Projects"
+date: 2019-12-08
+author: Jeremiah
+categories: [Freelancing, Software Development, Pricing]
+tags: [freelancer, pricing, software projects, guide]
+duration: 10 mins read
+---
+
 # Stop Undercharging NOW! The Freelancer’s Ultimate Guide to Pricing Software Projects
 
 Ah, the life of a freelancer! Not a week goes by without a fellow developer sliding into my inbox with the million-dollar question: "How much should I charge for this app?" 
