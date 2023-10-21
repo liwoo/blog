@@ -9,55 +9,55 @@ tags: ["Digital Health", "Malawi", "OpenHIE", "Healthcare Technology"]
 
 # Malawi’s Grand Plan to Achieve Digital Health Interoperability
 
-“Zatheka! Zathka man,” exclaimed an enthralled Blessings, his broad smile beaming all the way to the cool springs in Misuku Hills.
+“Zatheka! Zathka man,” exclaimed an enthralled Blessings, his broad yet warm smile beaming all the way to the cool springs in Misuku Hills.
 
-Blessings Mungonya, an 24-year old secondary school teacher living with HIV had been faithfully receiving his treatment from Chinsansu Clinic near his home and school. After a medical scare during his last visit, however, he had been referred to Chitipa District Hospital for further treatment.
+Blessings Mungonya, an 24-year old secondary school teacher living with HIV, had been faithfully receiving his treatment from his [Chinsansu Clinic](https://zipatala.health.gov.mw/facilities/245). After a medical scare during his last visit, he had been referred to [Chitipa District Hospital](https://zipatala.health.gov.mw/facilities/293) for further treatment.
 
 Thanks to the newly implemented Malawi Digital Health Interoperability Layer, the doctor treating Blessings was able to securely access his medical history from Chinsansu, ensuring smooth diagnosis and continuum of care.
 
 The Interoperability Layer then made it possible for Blessings treatment to be shared with his Medical Insurer, who remotely processed Blessings’ costs, removing all human intervention and potential for fraud. Blessings then received an SMS with instructions to pay for his medical shortfall via Mobile Money.
 
-And within thirty minutes, his entire procedure was complete. Zatheka.
+And within thirty minutes, with his wide grin as confirmation, his entire procedure was complete. Zatheka.
 
-This isn't science fiction. This is the new reality for the citizens of Malawi—a future where healthcare is no longer hampered by bureaucratic hurdles or data silos. A future where patients like Blessings can transition between healthcare facilities with ease, confident in the knowledge that their health records will follow them.
+This isn't science fiction. This is the new reality for the citizens of Malawi — a future where healthcare is no longer hampered by bureaucratic hurdles or data silos. A future where patients like Blessings can transition between healthcare facilities with ease, confident in the knowledge that their health records will follow them.
 
 ## Kuunika Data for Action: The Beginning
 
-Between the summer of 2017 and 2019, I had the honor of working as a Software Architect for Kuunika Data for Action. This was not just any project; it was a consortium of pivotal health stakeholders, including Baobab Health Trust (BHT) – my duty station – Luke International Norway, Cooper Smith, and Lighthouse Trust.
+Between the [summers of 2017 and 2019](https://www.linkedin.com/in/jchienda), I had the honor of working as a Software Architect for [Kuunika Data for Action](http://www.kuunika.org/). The project, with funding from the [Bill and Melinda Gates Foundation](https://www.gatesfoundation.org/), was made up of a consortium of pivotal health stakeholders, including [Baobab Health Trust (BHT)](https://baobabhealthtrust.org/) – my duty station – [Luke International Norway](https://lukeinternational.no/malawi/), [Cooper Smith](https://coopersmith.org/), and [Lighthouse Trust](https://www.mwlighthouse.org/).
 
 ### Our Mission
 
 Our primary objective was clear and challenging:
 
-> establish Digital Health Interoperability in Malawi to enhance the continuum of care among patients.
+> Establish Digital Health Interoperability in Malawi to enhance the continuum of care among patients.
 
-Collaborating with technical partners like Jembi Health Trust, we brainstormed, designed, and envisioned what interoperability in Malawi's healthcare would entail.
+Collaborating with technical partners like [Jembi Health Systems](https://www.jembi.org/), we brainstormed, designed, and envisioned what interoperability in Malawi's healthcare would entail.
 
 ### A Global Community
 
-Our team was actively involved in the OpenHIE Community, where we both contributed to and learned from global industry partners. This international collaboration was instrumental in gaining insights and sharing best practices.
+Our team was actively involved in the [OpenHIE Community](https://wiki.ohie.org/display/DR/Community+Event+Calendar), where we both contributed to and learned from global industry partners. This international collaboration was instrumental in gaining insights and sharing best practices.
 
 ### Baobab Health Trust's Legacy
 
-BHT's work in building localized EHR Systems, inspired by OpenMRS, for specific disease programs was commendable. By the time I joined, BHT's low-power solutions were operational in over 95 health facilities across 12 Malawian districts. Their offline-first patient identification system, DDE, had successfully registered over 6 million patients.
+BHT's work in building [localized Electronic Health Record (EHR) Systems](https://baobabhealthtrust.org/savelife_project/mizu-ehr/), inspired by [OpenMRS](https://openmrs.org/), for specific disease programs was commendable. By the time I joined, BHT's low-power solutions were operational in over 95 health facilities across 12 Malawian districts. Their offline-first patient identification system, [DDE](https://www.researchgate.net/publication/276283156_A_Demographics_Data_Exchange_for_Continuity_of_Care_Is_it_Feasible_in_Low-Resource_Settings), had successfully registered over 6 million patients.
 
 ### Integrating the Fragmented Landscape
 
-With a strong foundation in place, the challenge was integrating Malawi's fragmented Digital Health Landscape. The solution? OpenHIE's reference architecture. Our first major task was to create a Master Health Facility Registry, meticulously documenting all 1,500 healthcare facilities in Malawi.
+With a strong foundation in place, the challenge was integrating Malawi's fragmented Digital Health Landscape. The solution? OpenHIE's reference architecture. Our first major task was to create a [Master Health Facility Registry](https://zipatala.health.gov.mw/), meticulously documenting all 1,500 healthcare facilities in Malawi.
+
+![Reference Architecture for OpenHIEs Interoperability Layer](https://4154794999-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-M_zj_THWv6IL53at9rt%2F-Mklwx2rvW0MEah3fKEm%2F-Mklx4M997Ph7vOfp316%2Fohie_diagram_2021-09-29.png?alt=media&token=927fb4a3-c593-4a8a-8dde-53903917926c "OpenHIEs Reference Architecture")
 
 ### Pioneering Work
 
-Following the facility registry, our focus shifted to the Terminology Registry. A pilot project was launched with 10,000 terminologies translated to both Snomed and ICD-10. We also initiated the development of an ADX to ensure seamless data integration between DHAMIS and DHIS2 every month via the interoperability layer.
+Following the facility registry, our focus shifted to the [Terminology Registry](https://wiki.ohie.org/pages/viewpage.action?pageId=30149397). A pilot project was launched with 10,000 terminologies translated to both [Snomed](https://www.snomed.org/) and [ICD-10](https://icd.who.int/browse10/2019/en). We also initiated the development of an [Aggreage Data Exchange ADX](https://ohie.org/impact-stories/aggregating-fragmented-health-data-in-malawi/) to ensure seamless data integration between [DHAMIS, OpenLMIS and DHIS2](https://www.healthdatacollaborative.org/fileadmin/uploads/hdc/Documents/Country_documents/Malawi_MoHP_MEHIS_Strategy_Signed_copy_October2018.pdf) every month via the interoperability layer.
 
 ## The Road Ahead
 
 While we've achieved commendable milestones in our journey toward a seamless Digital Health landscape in Malawi, the path ahead is filled with even more possibilities, nuances, and revolutionary breakthroughs.
 
-The envisaged Health Worker Registry is not merely a database; it's the backbone of our healthcare system. It's crucial for identifying and documenting every individual who plays a part in patient care. From nurses and doctors to pharmacists and lab technicians, this registry ensures that every hand that contributes to a patient's well-being is recognized. In doing so, it not only establishes a structured hierarchy of care but also promotes accountability, ensuring that every health worker delivers to the best of their ability.
+The envisaged Health Worker Registry is a critical cog in the machinery. It's crucial for identifying and documenting every individual who plays a part in patient care. From nurses and doctors to pharmacists and lab technicians. In the vast world of medicine, where a single term can have varied interpretations, the Terminology Service acts as a bridge. It ensures that all medical-related terms, be it a symptom, a diagnosis, or a treatment protocol, are translatable not just between systems, but across borders.
 
-A comprehensive Terminology Service is the unsung hero of interoperability. In the vast world of medicine, where a single term can have varied interpretations, this service acts as a bridge. It ensures that all medical-related terms, be it a symptom, a diagnosis, or a treatment protocol, are translatable not just between systems, but across borders. By harmonizing medical vocabulary, it eradicates ambiguity, ensuring that a doctor in Chitipa District understands a diagnosis made in Lilongwe in the same vein, making patient transfers and cross-regional treatments seamless.
-
-But what's the magic behind ensuring that all this data flows without friction? Enter FHIR - Fast Health Interoperability Resources. As an indispensable standard, FHIR doesn't just act as a conduit for information transfer; it's the gatekeeper of a new realm in Digital Health. With FHIR, our healthcare system is not just conversing within its borders but is poised to engage in a global dialogue, sharing insights, learning from global best practices, and continuously evolving.
+But the glue that brings everything together is [FHIR - Fast Health Interoperability Resources](http://hl7.org/fhir/). As an indispensable standard, FHIR ushers us into a new realm of Digital Health. With FHIR, our healthcare system is not just conversing within its borders but is poised to engage in a [truly universal dialogue](https://www.apple.com/healthcare/health-records/), sharing insights, learning from global best practices, and continuously evolving.
 
 ## Unlocking Limitless Impact
 
