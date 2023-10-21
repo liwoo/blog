@@ -1,3 +1,4 @@
+
 # SSR vs. CSR: The One Choice That Could Make or Break Your Web App!
 
 Building Web Apps in 2019 feels like you're navigating through an episode of "Black Mirror," doesn't it? What the heck is even Webpack? You've got buzzwords like "Bundling" and "Tree shaking" flying around, not to mention the labyrinth of rendering techniques. I mean, it's like trying to understand the plot twists in "Inception" on your first watch.
