@@ -54,10 +54,12 @@ Here's where the spice comes in. For each task, assign a Skill Level Multiplier 
   Last but definitely not least, take into account industry-specific requirements. If you're developing for sectors like healthcare or finance, you've got extra regulations and security measures to think about. So go ahead, jack up that Skill Level Multiplier a notch for those industries.
 
 - Step 5:
-Before you go on multiplying anything, you gotta have a number to start with. So how do you get that number? Easy. Take what you think your yearly salary should be (honesty is key here), divide that by 52 weeks, and then divide that by 40 hours. Voilà, you got your base hourly rate!
+Before you go on multiplying anything, you gotta have a number to start with. So how do you get that number? Easy. Take what you think your yearly salary should be (honesty is key here), divide that by 52 weeks, and then divide that by 40 hours. Voilà, you got your base hourly rate! Oh, and calculate your tax burden and include this in your hourly rate. This could mean increasing your base rate by another 20-30%, depending on your tax laws.
 
 - Step 6: Calculate the Subtotal and Grand Total
 Last but not least, do the math! For each task, the subtotal will be Estimated Hours * (Hourly Rate * Skill Level Multiplier). Add up all these subtotals to arrive at the Grand Total.
+
+![Your Hourly Rate Formula](https://github.com/liwoo/blog/blob/main/assets/CodeCogsEqn_hq.png?raw=true "Your Hourly Rate Formula")
 
 ## Your Final Estimate (Quoatation)
 | Phase               | Tasks                        | Estimated Hours | Skill Level Multiplier | Hourly Rate | Subtotal  |
@@ -97,3 +99,6 @@ No system is foolproof. You're bound to underestimate the level of effort for so
 
 ## Conclusion
 This approach has minimized my project-related frustrations. I can confidently say that this method ensures that all costs are anticipated and covered. Because let's face it, the only surprise we want in freelancing is landing that dream client, not realizing halfway through a project that you've undersold yourself.
+
+## Oh, one more thing
+So you've slogged through the grunt work, decoded the client's riddles, and now you're staring down the barrel of creating a quote. Why go at it alone like you're John Wick with a pencil, when you can have an entire artillery? Meet EstyMate, your digital comrade-in-arms for crafting impeccable, swift, and shrewd quotes that reflect your worth. Get precise, get professional, get paid. Stop treating quote generation like it's a hackathon. With EstyMate, it's a breeze. Try it today and watch your quoting woes vanish faster than you can say "semicolon."
