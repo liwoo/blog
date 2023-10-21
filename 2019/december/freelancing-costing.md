@@ -1,21 +1,21 @@
 # Stop Undercharging NOW! The Freelancer’s Ultimate Guide to Pricing Software Projects
 
-Ah, the life of a freelancer! Not a week goes by without a fellow developer sliding into my inbox, their virtual eyes wide with that universal, million-dollar question: "How much should I charge for this app?" 
+Ah, the life of a freelancer! Not a week goes by without a fellow developer sliding into my inbox with the million-dollar question: "How much should I charge for this app?" 
 
-I remember my early days of freelancing. A Malawi-stock-exchange listed client was looking for a USSD application. "How much?" they asked. And like a rabbit in the headlights, I was frozen—calculating numbers in my head as if I was trying to solve a Rubik's Cube blindfolded. 
+I remember my early days of freelancing. A [Malawi-stock-exchange-listed](https://www.mse.co.mw/) client was looking for a [USSD application](https://wizaj.medium.com/how-a-20-year-old-mobile-technology-protocol-is-revolutionising-africa-with-numbers-744a52cbea92). "How much?" they asked. And like a rabbit in the headlights, I was frozen — calculating numbers in my head as if I was trying to solve a Rubik's Cube blindfolded. 
 
-Most freelancers find themselves in a similar predicament: they're like novice treasure hunters with a map, yet without a clue of the real value of the X-marked spot. Curious about navigating these treacherous waters? Buckle up; we're diving deep.
+If this is you, please read on.
 
 ## The Types of Projects
-As a freelancer, the kind of project you might be tasked with could range from creating a simple landing page to building an all-singing, all-dancing cloud-based enterprise solution. It might be a four-page website, a dynamic eCommerce platform, or even an intricate machine learning algorithm.
+As a freelancer, the kind of project you might be tasked with could range from creating a simple landing page to building an entire cloud-based enterprise solution. It might be a four-page website, a dynamic eCommerce platform, or even an intricate machine learning model.
 
 ## The Problem with Flat Fees
-Many freelancers charge a flat fee based on the project type. For example, a four-page website might go for MK500,000. Simple, right? Wrong! Charging a flat fee for a software project is like selling an "all-you-can-eat" buffet ticket and then finding out someone's planning to host their wedding reception there. Unlike retail products, software isn't static. It grows, changes, and occasionally throws tantrums.
+Many freelancers charge a flat fee based on the project type. For example, a four-page website might go for MK500,000, while a ten-plus-page website will cost MK1,500,000. Simple, right? Wrong! Unlike retail products, software isn't static. It grows, changes, and occasionally throws tantrums.
 
 Flat fees can lead to monumental frustrations. Imagine working your fingers to the bone, only to realize that your earnings are chump change compared to the hours you've logged. The sense of exploitation saps your morale faster than a double espresso shot.
 
 ## Here's what to do instead
-Hourly rates! I know this term elicits either a knowing nod or an anxious eye-twitch from freelancers. But listen, Maestro, the hourly rate system I'm talking about here isn't the one-size-fits-all straightjacket you might be used to. Nah, this is a bespoke suit tailored to the contours of your project—a system that considers the nuances, the highs and lows, the plot twists.
+[Hourly rates](https://www.shiftbase.com/glossary/hourly-rate)! I know this term elicits either a knowing nod or an anxious eye-twitch from freelancers. But listen, Maestro, the hourly rate system I'm talking about here isn't the one-size-fits-all straight jacket you might be used to. Nah, this is a bespoke suit tailored to the contours of your project—a system that considers the nuances, the highs and lows, the plot twists.
 
 With this approach, we're forced to break down the level of effort required for each stage of your project. Think of it as slicing your project into phases, then itemizing those slices based on how long you think each one will take. And for each of these project segments, you assign an hourly rate that captures not just your time, but also your skill, expertise, and the complexity of the task at hand.
 
@@ -36,7 +36,7 @@ Within each phase, list down the tasks you'll be executing. Be detailed; no task
 Next up, put on your future-seeing glasses. Estimate how many hours each task will take. But remember, optimism kills projects. If you think it'll take an hour, add a safety buffer.
 
 - Step 4: Skill Level Multiplier
-Here's where the spice comes in. For each task, assign a Skill Level Multiplier based on its complexity. This will be a factor that you'll multiply with the hourly rate. The higher the complexity, the higher the multiplier.
+Here's where the spice comes in. For each task, assign a [Skill Level Multiplier](http://www.agileestimator.com/2020/02/15/cost-drivers-effort-multipliers/) based on its complexity. This will be a factor that you'll multiply with the hourly rate. The higher the complexity, the higher the multiplier.
 
   1. Understand the Skill Categories
   First, let's categorize skills into Basic, Intermediate, and Advanced. Basic skills are the day-one-on-the-job kinda stuff. Intermediate takes a bit more practice and experience. Advanced? Well, that's where the Maestros like you really shine.
