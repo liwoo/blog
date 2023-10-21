@@ -56,12 +56,44 @@ Here's where the spice comes in. For each task, assign a Skill Level Multiplier 
 - Step 5:
 Before you go on multiplying anything, you gotta have a number to start with. So how do you get that number? Easy. Take what you think your yearly salary should be (honesty is key here), divide that by 52 weeks, and then divide that by 40 hours. Voilà, you got your base hourly rate!
 
-For example, if you think you should be making MK10,000,000 a year, you'll break it down like this:
-
-\( \text{Base Hourly Rate} = \frac{{\text{Yearly Salary}}}{{52 \times 40}} \)
-
-This gives you a base hourly rate. But hold on, that's just the start.
-
-
 - Step 6: Calculate the Subtotal and Grand Total
 Last but not least, do the math! For each task, the subtotal will be Estimated Hours * (Hourly Rate * Skill Level Multiplier). Add up all these subtotals to arrive at the Grand Total.
+
+## Your Final Estimate (Quoatation)
+| Phase               | Tasks                        | Estimated Hours | Skill Level Multiplier | Hourly Rate | Subtotal  |
+|---------------------|------------------------------|-----------------|------------------------|-------------|-----------|
+| Planning & Research | Requirement Gathering        | 8               | 1                      | $50         | $400      |
+|                     | Market Research              | 5               | 1                      | $50         | $250      |
+| Backend Development | User Registration            | 20              | 1.5                    | $50         | $1,500    |
+|                     | Payment Integration          | 15              | 2                      | $50         | $1,500    |
+|                     | Speaker Profiles             | 10              | 1                      | $50         | $500      |
+|                     | Event Schedule               | 12              | 1                      | $50         | $600      |
+|                     | Registration CRUD            | 10              | 1.5                    | $50         | $750      |
+|                     | Authentication               | 12              | 2                      | $50         | $1,200    |
+|                     | Schedule CRUD                | 8               | 1                      | $50         | $400      |
+|                     | Speaker CRUD                 | 9               | 1.5                    | $50         | $675      |
+| Frontend Development| UI/UX Design                 | 20              | 1.5                    | $50         | $1,500    |
+|                     | Implementing Design to Code  | 25              | 1                      | $50         | $1,250    |
+|                     | Speaker Details Screen       | 12              | 1                      | $50         | $600      |
+|                     | Speaker Landing Screen       | 10              | 1.5                    | $50         | $750      |
+|                     | Registration Screen          | 8               | 1                      | $50         | $400      |
+|                     | Schedule Screen              | 8               | 1.5                    | $50         | $600      |
+|                     | Payment Screen               | 8               | 1.5                    | $50         | $600      |
+| Testing             | Unit Testing                 | 10              | 1                      | $50         | $500      |
+|                     | User Acceptance Testing      | 8               | 1                      | $50         | $400      |
+| Project Management  | Weekly Meetings              | 10              | 1                      | $40         | $400      |
+| Deployment          | Server Setup                 | 5               | 2                      | $60         | $600      |
+|                     | Load Testing                 | 5               | 2                      | $60         | $600      |
+| CI/CD               | Pipeline Configuration       | 6               | 2                      | $60         | $720      |
+|                     | Automated Testing Setup      | 4               | 2                      | $60         | $480      |
+| Miscellaneous Costs | Unexpected Hurdles           | 10              | 1.5                    | $50         | $750      |
+| **Total**           |                              | **281**         |                        |             | **$20,755**|
+
+## The Benefits
+This method doesn't just calculate the monetary cost; it also spells out the time investment. Plus, it gives your client a crystal-clear breakdown of where their money's going. And when (not if, when) they want to negotiate, you can easily point out which parts of the project could be trimmed, helping you reduce cost AND workload.
+
+## The Caveats
+No system is foolproof. You're bound to underestimate the level of effort for some tasks. However, this method provides both you and your client with maximum transparency.
+
+## Conclusion
+This approach has minimized my project-related frustrations. I can confidently say that this method ensures that all costs are anticipated and covered. Because let's face it, the only surprise we want in freelancing is landing that dream client, not realizing halfway through a project that you've undersold yourself.
