@@ -23,15 +23,15 @@ Think of it as designing a building: just as you'd ensure there are ramps for th
 
 Here's why accessibility should be more than just a buzzword to you:
 
-1. It's the Right Thing to Do: At its core, accessibility is about inclusivity. By making your web content accessible, you're ensuring that everyone, regardless of their abilities, has equal access to information, opportunities, and experiences.
+1. **It's the Right Thing to Do:** At its core, accessibility is about inclusivity. By making your web content accessible, you're ensuring that everyone, regardless of their abilities, has equal access to information, opportunities, and experiences.
 
-2. It's Good for Business: According to the [World Bank](https://www.who.int/teams/noncommunicable-diseases/sensory-functions-disability-and-rehabilitation/world-report-on-disability), roughly 15% of the world's population experiences some form of disability. Ignoring accessibility means sidelining a significant portion of your potential user base or clientele.
+2. **It's Good for Business:** According to the [World Bank](https://www.who.int/teams/noncommunicable-diseases/sensory-functions-disability-and-rehabilitation/world-report-on-disability), roughly 15% of the world's population experiences some form of disability. Ignoring accessibility means sidelining a significant portion of your potential user base or clientele.
 
-3. Legal Implications: Many countries now have [laws and regulations](https://www.siteimprove.com/glossary/accessibility-laws/) in place requiring digital content to be accessible. Non-compliance can lead to hefty fines and lawsuits.
+3. **Legal Implications:** Many countries now have [laws and regulations](https://www.siteimprove.com/glossary/accessibility-laws/) in place requiring digital content to be accessible. Non-compliance can lead to hefty fines and lawsuits.
 
-4. Enhanced User Experience: Designing for accessibility often results in a better user experience for everyone. Features that make content more accessible, such as clear typography and intuitive navigation, benefit all users, not just those with disabilities.
+4. **Enhanced User Experience:** Designing for accessibility often results in a better user experience for everyone. Features that make content more accessible, such as clear typography and intuitive navigation, benefit all users, not just those with disabilities.
 
-5. SEO Benefits: Search engines love accessible websites. Proper use of headings, alt text for images, and semantic HTML can [boost your site's SEO](https://seo.co/semantic-html/), making it easier for people to find your content.
+5. **SEO Benefits:** Search engines love accessible websites. Proper use of headings, alt text for images, and semantic HTML can [boost your site's SEO](https://seo.co/semantic-html/), making it easier for people to find your content.
 
 While accessibility is a broad topic on its own, the good news is that by adhering to Semantic HTML, you can start being accessible today.  Here's a few heuristic I use everyday that help me write more semantic HTML:
 
