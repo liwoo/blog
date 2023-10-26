@@ -13,8 +13,6 @@ Ah, the life of a freelancer! Not a week goes by without a fellow developer slid
 
 I remember my early days of freelancing. A [Malawi-stock-exchange-listed](https://www.mse.co.mw/) client was looking for a [USSD application](https://wizaj.medium.com/how-a-20-year-old-mobile-technology-protocol-is-revolutionising-africa-with-numbers-744a52cbea92). "How much?" they asked. And like a rabbit in the headlights, I was frozen — calculating numbers in my head as if I was trying to solve a Rubik's Cube blindfolded. 
 
-If this is you, please read on.
-
 ## The Types of Projects
 As a freelancer, the kind of project you might be tasked with could range from creating a simple landing page to building an entire cloud-based enterprise solution. It might be a four-page website, a dynamic eCommerce platform, or even an intricate machine learning model.
 
